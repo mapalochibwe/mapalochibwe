@@ -1,8 +1,6 @@
 ### Salut !!!
 
-I am simply a Multipotentialite who loves coding :)
-
-Current Co-Founder and Chief Technology Officer of Native Stack
+I am simply a Multipotentialite who loves code 
 
 Feel free to reach me personally at : Maverickdfh@gmail.com
 
